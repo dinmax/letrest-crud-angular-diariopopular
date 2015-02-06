@@ -2,8 +2,7 @@
 <html>
 <head>
     <title></title>
-    <!--<link rel="stylesheet" href="../dist/letrest-ui.css"/>-->
-    <link rel="stylesheet" href="../src/styles/crud.css">
+    <link rel="stylesheet" href="../letrest-crud-ui.css"/>
     <link rel="stylesheet" href="../bower_components/letrest-angular/letrest-ui.css"/>
 </head>
 <body ng-app="crudTest" ng-controller="mainCtrl as Main">
@@ -11,7 +10,7 @@
 <h1>{{Main.message}}</h1>
 <!--<div lr-show-when-logged>User logged</div>-->
 <lr-hide-when-logged>
-   <div>
+    <div ng-controller="LetRestSecurityLoginController as Login">
         <ng-include src="'letrest/view/security/LoginView.html'"></ng-include>
     </div>
 </lr-hide-when-logged>

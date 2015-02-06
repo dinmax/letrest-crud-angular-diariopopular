@@ -1,0 +1,19 @@
+{
+  "name": "letrest-crud-angular",
+  "license": "MIT",
+  "version": "0.0.1",
+  "ignore": [
+    ".gitignore",
+    "README.md"
+  ],
+  "dependencies": {
+    "letrest-angular": "~1.0.1",
+    "angular-ui-router": "~0.2.13",
+    "angular-local-storage": "~0.0.7"
+  },
+  "devDependencies": {},
+  "main": [],
+  "resolutions": {
+    "angular": "1.3.x"
+  }
+}
