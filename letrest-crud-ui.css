@@ -1,7 +1,8 @@
 .crud-action-bar {
     background-color: #fafafa;
     padding: 5px 0px 6px 0px;
-};.crud-filters {
+}
+.crud-filters {
     position: relative;
 
     background-color: #fafafa
@@ -262,7 +263,8 @@
 .not-allowed {
   cursor: not-allowed !important;
 }
-;.crud-footer{
+
+.crud-footer{
   width: inherit;
   /*text-align: -webkit-right;*/
 }
@@ -294,7 +296,8 @@
 
 .crud-body {
   position: relative;
-};/* PANEL */
+}
+/* PANEL */
 .crud-panel {
     position: relative;
     display: inline-block;
@@ -529,7 +532,8 @@ input.crud-control.ng-touched.ng-invalid,
   color: red;
   padding-left: 92px;
 }
-;.crud-table-container {
+
+.crud-table-container {
     width: 100%;
     display: inline-block;
     padding: 7px 5px 0px 5px;
