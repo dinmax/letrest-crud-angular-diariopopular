@@ -266,6 +266,7 @@
 
 .crud-footer{
   width: inherit;
+   
   /*text-align: -webkit-right;*/
 }
 
@@ -297,6 +298,7 @@
 .crud-body {
   position: relative;
 }
+
 /* PANEL */
 .crud-panel {
     position: relative;
