@@ -1,16 +1,17 @@
 {
   "name": "letrest-crud-angular",
   "license": "MIT",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "ignore": [
     ".gitignore",
     "README.md"
   ],
   "dependencies": {
-    "letrest-angular": "~1.0.1",
     "angular-ui-router": "~0.2.13",
     "angular-local-storage": "~0.0.7",
-    "ng-file-upload": "~4.1.4"
+    "ng-file-upload": "~4.1.4",
+    "letrest-angular": "~1.0.11",
+    "angular-translate": "~2.7.2"
   },
   "devDependencies": {},
   "main": [
