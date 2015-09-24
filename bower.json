@@ -1,7 +1,7 @@
 {
   "name": "letrest-crud-angular-diariopopular",
   "license": "MIT",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "ignore": [
     ".gitignore",
     "README.md"
